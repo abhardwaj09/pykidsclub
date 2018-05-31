@@ -4,5 +4,5 @@
 
 The following notebooks illustrate and expose students to STEM concepts as well as learn Python in a fu and interactive way. These are primarily in the form of Jupyter/Python notebooks. You will need a current distribution of Python, such as the excellect Anaconda distribution, to execute the notebooks. These materials were recently updated for Python 3.
 
-[Notebook One - Intro] (hello-world/My First Notebook App - SWAROOP YALLA.ipynb)
+[Notebook One - Intro] (https://github.com/pykidsclub/hello-world/blob/master/My%20First%20Notebook%20App%20-%20SWAROOP%20YALLA.ipynb)
 
