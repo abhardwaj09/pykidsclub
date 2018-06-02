@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/pykidsclub/hello-world/blob/master/pykidsclub1.png "Logo")
 
-<img src ="hello-world/pykidsclub1.png">
+<img src ="https://github.com/pykidsclub/hello-world/blob/master/pykidsclub1.png">
 
 
 
