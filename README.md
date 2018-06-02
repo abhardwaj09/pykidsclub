@@ -4,6 +4,9 @@
 
 ![alt text](https://github.com/pykidsclub/hello-world/blob/master/pykidsclub1.png "Logo")
 
+<img src ="hello-world/pykidsclub1.png">
+
+
 
 [Notebook One - Intro](https://github.com/pykidsclub/hello-world/blob/master/My%20First%20Notebook%20App%20-%20SWAROOP%20YALLA.ipynb)
 
