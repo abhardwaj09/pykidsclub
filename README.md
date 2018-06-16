@@ -18,6 +18,7 @@
 - Robotics Engineer
 - Drone Technologist
 - Automated Stock Trader
+
 ---
 
 <img src = "images/pykidsclub1.png">
