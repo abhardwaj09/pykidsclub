@@ -2,7 +2,7 @@
 # Curriculum - Fall 2018
 
 ## Week 1: Introduction
- - Setting up Python, Jupyter Notebooks, Variables and Basic Commands
+ - [Setting up Python, Jupyter Notebooks, Variables and Basic Commands](https://github.com/pykidsclub/index/blob/master/notebooks/Area,%20Perimeter%20and%20Volume.ipynb)
 
 ## Week 2: Math Session 1
  - Geometry - Area, Perimeter and Volume. Intro to functions
