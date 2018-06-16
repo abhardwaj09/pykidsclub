@@ -1,10 +1,4 @@
-
-## Welcome to PyKidsClub - A club for learning Python and STEM concepts for Middle School Students.
-### PyKIDSClub - Program for Middle schoolers Grades 5-8
-
-<img src = "images/PYKIDSCLUB.jpg">
-
-#### @ PyKidsClub 2018
+## PyKIDSClub - Program for Middle schoolers Grades 5-8
 
 ####  As the kids of today transition into the jobs of tomorrow, they will face an ever increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri.
 
