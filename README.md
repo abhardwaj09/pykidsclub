@@ -27,3 +27,4 @@
 
 ---
 
+[Curriculum for Fall 2018](https://github.com/pykidsclub/index/blob/master/curriculum.md)
