@@ -20,4 +20,9 @@
 - Automated Stock Trader
 ---
 
+<img src = "images/pykidsclub1.png">
+
+#### @ PyKidsClub 2018
+
+---
 
