@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: PyKidsClub
-logo: [https://github.com/pykidsclub/index/blob/master/images/PYKIDSCLUB.jpg]
+logo: https://github.com/pykidsclub/index/blob/master/images/PYKIDSCLUB.jpg
 description: Welcome to PyKidsClub - A club for learning Python and STEM concepts for Middle School Students
 
 
