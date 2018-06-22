@@ -1,13 +1,8 @@
 <meta name="google-site-verification" content="4fljr3mR5Ggm7Ff1z1oSIH9r6hNcfpFza0TZz-JN-as" />
 
 <img src = "images/pykidsclub_header.png">
----
 
-## PyKIDSClub - Program for Middle schoolers Grades 5-8
-
-####  As the kids of today transition into the jobs of tomorrow, they will face an ever increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri.
-
-Register (click the button below)
+Registerations open for Fall 2018 5th-8th Graders (click the button below)
 
 <a href="https://www.eventbrite.com/e/pykidsclub-stem-python-classes-for-middle-schoolers-tickets-47249210661?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47249210661" alt="Eventbrite - PyKidsClub - S.T.E.M. &amp; Python Classes for  Middle Schoolers" /></a>
 
@@ -15,6 +10,12 @@ Register (click the button below)
 Email us for more info:
 <a href="mailto:info@pykidsclub.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
 </p>
+
+<img src = "images/PykidsClub_long_ad.png">
+
+## PyKIDSClub - Program for Middle schoolers Grades 5-8
+
+####  As the kids of today transition into the jobs of tomorrow, they will face an ever increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri.
 
 #### All these jobs require lots of Math, Physics and Engineering. But above all, it will require programming machines to automate simple tasks. Python is the fastest programming langauge that is :
 
@@ -27,9 +28,7 @@ Email us for more info:
 - Drone Technologist
 - Automated Stock Trader
 
----
 
-<img src = "images/PykidsClub_long_ad.png">
 
 #### @ PyKidsClub 2018
 
