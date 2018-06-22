@@ -26,7 +26,7 @@ Email us for more info:
 
 ---
 
-<img src = "images/pykidsclub1.png">
+<img src = "images/PykidsClub_long_ad.png">
 
 #### @ PyKidsClub 2018
 
