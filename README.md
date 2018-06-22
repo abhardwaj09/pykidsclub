@@ -1,5 +1,8 @@
 <meta name="google-site-verification" content="4fljr3mR5Ggm7Ff1z1oSIH9r6hNcfpFza0TZz-JN-as" />
 
+<img src = "images/pykidsclub_header.png">
+---
+
 ## PyKIDSClub - Program for Middle schoolers Grades 5-8
 
 ####  As the kids of today transition into the jobs of tomorrow, they will face an ever increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri.
