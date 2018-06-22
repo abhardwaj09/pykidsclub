@@ -2,7 +2,7 @@
 
 <img src = "images/pykidsclub_header.png">
 
-Registerations open for Fall 2018 5th-8th Graders (click the button below)
+### Registrations open for Fall 2018 5th-8th Graders (click the button below)
 
 <a href="https://www.eventbrite.com/e/pykidsclub-stem-python-classes-for-middle-schoolers-tickets-47249210661?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47249210661" alt="Eventbrite - PyKidsClub - S.T.E.M. &amp; Python Classes for  Middle Schoolers" /></a>
 
@@ -13,7 +13,7 @@ Email us for more info:
 
 <img src = "images/PykidsClub_long_ad.png">
 
-## PyKIDSClub - Program for Middle schoolers Grades 5-8
+### PyKIDSClub - Program for Middle schoolers Grades 5-8
 
 ####  Why Python and S.T.E.M. (Science Technology Engineering Math)?: As the kids of today transition into the jobs of tomorrow, they will face an ever-increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri. All these jobs require lots of Math, Physics, and Engineering. But above all, it will require programming machines to automate simple tasks. Python is the fastest growing programming language that is widely considered an industry standard.
 
