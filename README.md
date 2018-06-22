@@ -21,7 +21,7 @@ Email us for more info:
 
 #### Pre-requisites: Students are expected to bring their own laptops (preferably Chromebooks) as well as have their own Google ID. An introductory email will describe required hardware and software in detail prior to the first class.
 
-##### PyKidsClub brings leading Data Science and Analytics experts and practitioners who are passionate about helping young students in their S.T.E.M. aspirations. We make learning concepts in Math and Science fun and interactive for Middle school students. 
+#### Who are we? PyKidsClub brings leading Data Science and Analytics experts and practitioners who are passionate about helping young students in their S.T.E.M. aspirations. We make learning concepts in Math and Science fun and interactive for Middle school students. 
 
 #### @ PyKidsClub 2018
 
