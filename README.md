@@ -15,15 +15,15 @@ Email us for more info:
 
 ### PyKIDSClub - Program for Middle schoolers Grades 5-8
 
-####  Why Python and S.T.E.M. (Science Technology Engineering Math)?: As the kids of today transition into the jobs of tomorrow, they will face an ever-increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri. All these jobs require lots of Math, Physics, and Engineering. But above all, it will require programming machines to automate simple tasks. Python is the fastest growing programming language that is widely considered an industry standard.
+#####  Why Python and S.T.E.M. (Science Technology Engineering Math)?: As the kids of today transition into the jobs of tomorrow, they will face an ever-increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri. All these jobs require lots of Math, Physics, and Engineering. But above all, it will require programming machines to automate simple tasks. Python is the fastest growing programming language that is widely considered an industry standard.
 
-#### PyKidsClub is an 8-week course designed to help Middle school students learn the basics of Python Notebooks and apply them to their Math and Science concepts. Classes meet every Wednesday starting 9/19/2018.
+##### PyKidsClub is an 8-week course designed to help Middle school students learn the basics of Python Notebooks and apply them to their Math and Science concepts. Classes meet every Wednesday starting 9/19/2018.
 
-#### Pre-requisites: Students are expected to bring their own laptops (preferably Chromebooks) as well as have their own Google ID. An introductory email will describe required hardware and software in detail prior to the first class.
+##### Pre-requisites: Students are expected to bring their own laptops (preferably Chromebooks) as well as have their own Google ID. An introductory email will describe required hardware and software in detail prior to the first class.
 
-#### Who are we? PyKidsClub brings leading Data Science and Analytics experts and practitioners who are passionate about helping young students in their S.T.E.M. aspirations. We make learning concepts in Math and Science fun and interactive for Middle school students. 
+##### Who are we? PyKidsClub brings leading Data Science and Analytics experts and practitioners who are passionate about helping young students in their S.T.E.M. aspirations. We make learning concepts in Math and Science fun and interactive for Middle school students. 
 
-#### @ PyKidsClub 2018
+##### @ PyKidsClub 2018
 
 ---
 
