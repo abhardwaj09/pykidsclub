@@ -8,7 +8,7 @@ Email us for more info:
 <a href="mailto:info@pykidsclub.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
 </p>
 
-<img src = "images/PykidsClub_long_ad.png">
+
 
 ### PyKIDSClub - Program for Middle schoolers Grades 5-8
 
