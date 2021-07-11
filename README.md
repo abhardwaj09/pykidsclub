@@ -10,11 +10,11 @@ Email us for more info:
 
 
 
-### PyKIDSClub - Program for Middle schoolers Grades 5-8
+### PyKIDSClub - Program for Middle and High Scholers
 
-#####  Why Python and S.T.E.M. (Science Technology Engineering Math)?: As the kids of today transition into the jobs of tomorrow, they will face an ever-increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri. All these jobs require lots of Math, Physics, and Engineering. But above all, it will require programming machines to automate simple tasks. Python is the fastest growing programming language that is widely considered an industry standard.
+#####  Why Python and S.T.E.M. (Science Technology Engineering Math)?: As the kids of today transition into the jobs of tomorrow, they will face an ever-increasing array of automation and robots doing simple tasks. If there is any doubt, see advances in Driverless Cars, Cashier-less retail stores, Alexa, and Siri. All these jobs require lots of Math, Physics, and Engineering. But above all, it will require programming skills and machine learning to automate simple tasks. Python is the fastest growing programming language that is widely considered an industry standard.
 
-##### PyKidsClub is an intoductory course designed to help Middle school students learn the basics of Python Notebooks and apply them to their Math and Science concepts.
+##### PyKidsClub is an intoductory set of courses designed to help Middle and High school students learn the basics of Python Notebooks and apply them to their Math and Science concepts. We focus on schools that do not have an established curriculum in Python and provide free lectures as part of the math/science/STEM classes.
 
 ##### Pre-requisites: Students are expected to bring their own laptops (preferably Chromebooks) as well as have their own Google ID. An introductory email will describe required hardware and software in detail prior to the first class.
 
