@@ -21,8 +21,8 @@ Email us for more info:
 
 
 
-##### @ PyKidsClub 2018
+##### @ PyKidsClub 2022
 
 ---
 
-[Curriculum for Fall 2018](https://github.com/pykidsclub/index/blob/master/curriculum.md)
+[Curriculum for Fall 2022](https://github.com/pykidsclub/index/blob/master/curriculum.md)
