@@ -5,7 +5,7 @@
 
 <p>
 Email us for more info:
-<a href="mailto:info@pykidsclub.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
+<a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
 </p>
 
 
