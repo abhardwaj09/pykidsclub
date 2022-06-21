@@ -8,7 +8,7 @@ Email us for more info:
 </p>
 
 
-### PyKIDSClub - Program for Middle and High Schoolers
+### PyKIDSClub - Program for Middle and High Schooler
 
 ##### PyKidsClub brings leading Data Science and Analytics experts and practitioners who are passionate about helping young students in their S.T.E.M. aspirations. We make learning concepts in Math and Science fun and interactive for Middle school students. 
 
