@@ -24,4 +24,4 @@ Email us for more info:
 
 ---
 
-[Curriculum for Fall 2022](https://github.com/pykidsclub/index/blob/master/curriculum.md)
+
