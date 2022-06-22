@@ -5,7 +5,6 @@
 
 Email us for more info:
 <a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
-</p>
 
 
 ### PyKidsClub - Program for Middle and High Schooler
