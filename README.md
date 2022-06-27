@@ -1,7 +1,3 @@
----
-github:
-  is_project_page: false
----
 <meta name="google-site-verification" content="4fljr3mR5Ggm7Ff1z1oSIH9r6hNcfpFza0TZz-JN-as" />
 
 <img src = "images/pykidsclub_header.png">
