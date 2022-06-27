@@ -2,8 +2,6 @@
 
 <img src = "images/pykidsclub_header.png">
 
-
-Email us for more info:
 <a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a> | <a href="http://pykidsclub.com/enroll">Enroll</a> | <a href="http://pykidsclub.com/about">About </a>
 
 ### PyKidsClub for Middle and High Schoolers
