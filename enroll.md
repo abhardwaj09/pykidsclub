@@ -1,6 +1,6 @@
 ### Enroll Now
 
 #### Our Programs
--- Intro to Python 
+- Intro to Python 
 
     
