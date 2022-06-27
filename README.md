@@ -4,8 +4,7 @@
 
 
 Email us for more info:
-<a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a>
-<a href="http://pykidsclub.com/enroll">Enroll</a>
+<a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Send Mail</a> <p> | </p> <a href="http://pykidsclub.com/enroll">Enroll</a> <p> | </p> <a href="http://pykidsclub.com/about">About </a>
 
 ### PyKidsClub for Middle and High Schoolers
 
