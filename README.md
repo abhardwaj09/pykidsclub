@@ -21,13 +21,14 @@ As our mission of the Computer Science courses is to enrich the knowledge and fu
 
 ## **Why Computer Science?**
 With the fast-changing digital driven world, computer science is a career path rapidly gaining popularity around the world. 
-70% of jobs today require computer & technology skills 
-Most C.S jobs only require a Bachelors degree
+- 70% of jobs today require computer & technology skills 
+- Most C.S jobs only require a Bachelors degree
 Below are a list of high paying jobs that require CompSci:
 - Front End Developer
 - Software Engineer
 - Data Scientist 
 - Mobile Security engineer
+
 We hope that our classes has a lasting impact on our students and gives them a key insight for career paths of tomorrow.
 
 ##### @ PyKidsClub 2022
