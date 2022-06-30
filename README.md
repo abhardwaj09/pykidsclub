@@ -4,7 +4,7 @@
 
 <a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a> | <a href="http://pykidsclub.com/enroll">Enroll</a> | <a href="http://pykidsclub.com/about">About </a>
 
-### PyKidsClub for all grades 
+### **PyKidsClub** 
 
 **PyKidsClub** brings leading data science and analytics  experts and practitioners who are passionate about helping young students in their STEM aspirations. We make learning concepts in math and science fun and interactive for middle school students. 
 
