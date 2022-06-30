@@ -2,7 +2,8 @@
 
 ## Meet our Team
 
-###Arav Bhardwaj
+###
+Arav Bhardwaj
 
 ###
 Jai Yalla 
