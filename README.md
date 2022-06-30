@@ -20,8 +20,8 @@ As our mission of the Computer Science courses is to enrich the knowledge and fu
 - 12% of American students don't have access to a computer at home
 
 ## **Why Computer Science?**
-With the fast-changing digital driven world, computer science is a career path rapidly gaining popularity around the world.                              70% of jobs today require computer & technology skills                                                                                                   Most C.S jobs only require a Bachelors degree
-Below is a list of high paying jobs that require CompSci:
+With the fast-changing digital driven world, computer science is a career path rapidly gaining popularity around the world.                              - 70% of jobs today require computer & technology skills                                                                                                 - Most C.S jobs only require a Bachelors degree
+- Below is a list of high paying jobs that require CompSci:
 - Front End Developer
 - Software Engineer
 - Data Scientist 
