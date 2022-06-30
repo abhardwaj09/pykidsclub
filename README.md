@@ -10,7 +10,7 @@ PyKidsClub is a 100% Student Run Nonprofit Organization located in Charlotte, NC
 
 ## **Our Mission**
 
-As our mission of the Computer Science courses is to enrich the knowledge and future capabilities of our local students through lectures, we also strive to enrich the future of other students worldwide. Many students in underdeveloped countries don't even have access to technology to learn. Technology is vital to learn math and science concepts of the future. We hope through donations and fundraisers, we can bridge the digital divide in underdeveloped countries and fight against lack of education and technology resources. **Our dream is to provide students all over the globe an equal and fair chance at becoming the creators of the future.**
+As our mission of the Computer Science courses is to enrich the knowledge and future capabilities of our local students through lectures, we also strive to enrich the future of other students worldwide. Many students in underdeveloped countries don't even have access to technology to learn. Technology is vital to learn math and science concepts of the future. We hope through donations and fundraisers, we can bridge the digital divide in underdeveloped countries and fight against lack of education and technology resources. Our dream is to provide students all over the globe an equal and fair chance at becoming the creators of the future.
 
  ## **Why PyKidsClub?**
 - 53% of High Schools don't teach C.S
