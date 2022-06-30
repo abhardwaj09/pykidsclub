@@ -12,12 +12,6 @@ PyKidsClub is a 100% Student Run Nonprofit Organization located in Charlotte, NC
 
 As our mission of the Computer Science courses is to enrich the knowledge and future capabilities of our local students through lectures, we also strive to enrich the future of other students worldwide. Many students in underdeveloped countries don't even have access to technology to learn. Technology is vital to learn math and science concepts of the future. We hope through donations and fundraisers, we can bridge the digital divide in underdeveloped countries and fight against lack of education and technology resources. Our dream is to provide students all over the globe an equal and fair chance at becoming the creators of the future.
 
- ## **Why PyKidsClub?**
-- 53% of High Schools don't teach C.S
-- Women make up only 28% of STEM jobs
-- 1.3 billion students all over the world do not have access to household internet
-- 12% of American students don't have access to a computer at home
-
 ## **Why Computer Science?**
 With the fast-changing digital driven world, computer science is a career path rapidly gaining popularity around the world.                              - 70% of jobs today require computer & technology skills                                                                                                 - Most C.S jobs only require a Bachelors degree
 - Below is a list of high paying jobs that require CompSci:
