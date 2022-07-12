@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: PyKidsClub
 logo: /images/PYKIDSCLUB.jpg
-description: <a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a>&emsp; ⋅ &emsp;<a href="http://pykidsclub.com/enroll">Enroll</a> &emsp; ⋅ &emsp;<a href="http://pykidsclub.com/about">About </a> 
+description: &emsp;<a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a>&emsp;  &emsp;<a href="http://pykidsclub.com/enroll">Enroll</a> &emsp;  &emsp;<a href="http://pykidsclub.com/about">About </a> 
 github:
   is_project_page: false
