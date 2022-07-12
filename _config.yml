@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: PyKidsClub
 logo: /images/PYKIDSCLUB.jpg
-description: Welcome to PyKidsClub
 github:
   is_project_page: false
