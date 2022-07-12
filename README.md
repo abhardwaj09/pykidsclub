@@ -2,7 +2,7 @@
 
 <img src = "images/pykidsclub_header.png">
 
-## <a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a> | <a href="http://pykidsclub.com/enroll">Enroll</a> | <a href="http://pykidsclub.com/about">About </a> | 
+<a href="mailto:pykidsclub@gmail.com?Subject=Information on PyKidsClub" target="_top">Email Us</a> ⋅ <a href="http://pykidsclub.com/enroll">Enroll</a> ⋅ <a href="http://pykidsclub.com/about">About </a> ⋅ 
 
 # **PyKidsClub** 
 
