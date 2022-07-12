@@ -2,6 +2,6 @@
 
 ## Meet our Team
 
-### Arav Bhardwaj
+### Arav Bhardwaj: Co - Founder, Co - Leader, Instrucor
 
-### Jai Yalla 
+### Jai Yalla: Co - Founder, Co - Leader, Instrucor
