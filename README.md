@@ -20,7 +20,7 @@ With the fast-changing digital driven world, computer science is a career path r
 - Data Scientist 
 - Mobile Security engineer
 
-We hope that our classes has a lasting impact on our students and gives them a key insight for career paths of tomorrow.
+We hope that our classes has a lasting impact on our students and gives them a key insight for career paths of tomorrow!
 
 ##### @ PyKidsClub 2022
 
