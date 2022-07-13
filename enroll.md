@@ -1,4 +1,4 @@
-## Enroll Now
+## Enroll Now!
 
 ### Our Programs
 #### Intro to Python (August 7, 14, 21)
