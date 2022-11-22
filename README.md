@@ -6,7 +6,7 @@
 
 # **PyKidsClub** 
 
-PyKidsClub is a 100% Student Run Nonprofit Organization located in Charlotte, NC. We offer **FREE** online Computer Science courses designed to help students of all ages learn the basics of programming and apply them to their STEM concepts at school and careers in the future. 
+PyKidsClub is a 100% Student Run Nonprofit Organization located in Charlotte, NC. We offer online Computer Science courses designed to help students of all ages learn the basics of programming and apply them to their STEM concepts at school and careers in the future. 
 
 ## **Our Mission**
 
