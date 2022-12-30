@@ -1,4 +1,4 @@
-PyKidsClub was founded by two high schoolers in Charlotte with a passion for STEM, and aims to empower the next generation with essential technological skills and bridge the digital divide. 
+PyKidsClub was founded by a high schooler in Charlotte with a passion for STEM, and aims to empower the next generation with essential technological skills and bridge the digital divide. 
 
 ## Meet our Team!
 
