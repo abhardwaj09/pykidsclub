@@ -2,7 +2,7 @@ PyKidsClub was founded by a high schooler in Charlotte with a passion for STEM, 
 
 ## Meet our Team!
 
-**Jai Yalla: Co-founder, Instructor** <br>
+**Jai Yalla: Founder, Instructor** <br>
 Jai is in the class of 2025 at Providence Day School. He is interested in data science, is familiar with Python, has taken "Introduction to Machine Learning with Programming" summer course at NCSSM, and took part in "Data Science and Machine Learning", a week camp at Providence Day School sponsored by Wells Fargo. Besides academics, Jai plays soccer and golf for his school and is a team member at Kumon.  
 
 **Arav Bhardwaj: Instructor** <br>
