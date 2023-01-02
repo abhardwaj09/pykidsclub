@@ -22,7 +22,8 @@ With the fast-changing digital driven world, computer science is a career path r
 
 We hope that our classes has a lasting impact on our students and gives them a key insight for career paths of tomorrow!
 
-<img src = "intro2022">
+[image_6483441](https://user-images.githubusercontent.com/39782671/210189388-2faf77d4-d89c-42b9-bc10-ffbd8fa81a02.JPG)
+
 
 ##### @ PyKidsClub 2022
 
