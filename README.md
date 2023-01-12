@@ -20,6 +20,11 @@ With the fast-changing digital driven world, computer science is a career path r
 - Data Scientist 
 - Mobile Security engineer
 
+## **Charities we Support:**
+- Ahsa for Education
+- More Coming Soon!
+
+
 PyKidsClub was founded by a high schooler in Charlotte with a passion for STEM, and aims to empower the next generation with essential technological skills and bridge the digital divide. 
 
 
