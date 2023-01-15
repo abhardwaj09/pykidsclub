@@ -12,6 +12,10 @@ PyKidsClub is a 100% Student Run Organization located in Charlotte, NC. We offer
 
 As our mission of the Computer Science courses is to enrich the knowledge and future capabilities of our local students through lectures, we also strive to enrich the future of other students worldwide. Many students in underdeveloped countries don't even have access to technology to learn. Technology is vital to learn math and science concepts of the future. We hope through donations, fundraisers, and classes, we can solve the digital divide in underdeveloped countries and fight against lack of education and technology resources. Our dream is to provide students all over the globe an equal and fair chance at becoming the creators of the future. 50% of our profits will support this cause. 
 
+## **Charities we Support:**
+- Ahsa for Education
+- More Coming Soon!
+
 ## **Why Computer Science and PyKidsClub?**
 With the fast-changing digital driven world, computer science is a career path rapidly gaining popularity around the world.                              - 70% of jobs today require computer & technology skills                                                                                                 - Most C.S jobs only require a Bachelors degree
 - Below is a list of high paying jobs that require CompSci:
@@ -20,9 +24,7 @@ With the fast-changing digital driven world, computer science is a career path r
 - Data Scientist 
 - Mobile Security engineer
 
-## **Charities we Support:**
-- Ahsa for Education
-- More Coming Soon!
+<img src = "jaipython.jpeg">
 
 
 PyKidsClub was founded by a high schooler in Charlotte with a passion for STEM, and aims to empower the next generation with essential technological skills and bridge the digital divide. 
