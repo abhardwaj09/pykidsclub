@@ -25,6 +25,8 @@ With the fast-changing digital driven world, computer science is a career path r
 - Mobile Security engineer
 
 <img src = "images/jaipython.jpeg">
+**Above is our Intro to Python Course**
+
 
 
 PyKidsClub was founded by a high schooler in Charlotte with a passion for STEM, and aims to empower the next generation with essential technological skills and bridge the digital divide. 
